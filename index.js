@@ -22,7 +22,6 @@ function readFileAndParse() {
   });
 }
 
-
 function trieBuilder(ranges) {
   const root = {};
 
