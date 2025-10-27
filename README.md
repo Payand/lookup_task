@@ -1,6 +1,6 @@
-# My Node.js Application
+# IP TASK.    
 
-This is a simple Node.js application.
+An IP address lookup system using binary trie data structure for O(1) constant-time CIDR range matching.
 
 ---
 
@@ -24,12 +24,3 @@ You'll need **Node.js** installed on your system. You can download it from [node
     ```bash
     npm install
     ```
-
----
-
-## Usage
-
-To run the application, simply execute the following command in your terminal from the project's root directory:
-
-```bash
-node index.js
