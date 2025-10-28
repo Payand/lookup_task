@@ -25,6 +25,6 @@ You'll need **Node.js** installed on your system. You can download it from [node
     npm install
     ```
 3.**Run code:**
-    ```bash
+    ```
     node index.js
     ```
